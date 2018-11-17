@@ -7,7 +7,7 @@ MATLAB implementation of Crack detection based on [ELM](http://www.ntu.edu.sg/ho
 - Crack.m:deciding the origin pictures into small pieces.
 - spare_elm_autoencoder.m:spare autoencoder for ELM.
 ## Datasets
-![](images/1.jpg)
+![](images/1.png)
 
 ## Method
 ![](images/2.jpg)
