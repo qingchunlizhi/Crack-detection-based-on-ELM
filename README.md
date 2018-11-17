@@ -10,7 +10,9 @@ MATLAB implementation of Crack detection based on [ELM](http://www.ntu.edu.sg/ho
 ![](images/1.png)
 
 ## Method
+-  the images of the collected concrete cracks are divided and expanded by sliding window and random rotation
 ![](images/2.jpg)
+- the features of the cracks are quickly learned by the sparse auto-encoded feature extraction network. Next, the online sequential extreme learning machine is used to identify the characteristics of crack defects
 ![](images/3.jpg)
 
 ## Results
